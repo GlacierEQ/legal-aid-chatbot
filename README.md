@@ -32,4 +32,3 @@ This project is an AI-powered legal chatbot developed as a final year project fo
 ## Contributing
 
 If you want to contribute to this project, please fork the repository and create a pull request. Ensure that your contributions align with the project's goals and follow best practices.
-
